@@ -1,0 +1,69 @@
+SonarQube plugins:
+  - Mutation Analysis 1.5 (mutationanalysis)
+  - SonarCSS 1.1.1.1010 (cssfamily)
+  - PMD 3.2.1 (pmd)
+  - 3D Code Metrics 3.7 (citymodel)
+  - Svn 1.9.0.1295 (scmsvn)
+  - GitLab Auth 1.3.2 (authgitlab)
+  - SonarScala 1.5.0.315 (sonarscala)
+  - SonarC# 7.15.0.8572 (csharp)
+  - Russian Pack 1.9 (l10nru)
+  - SonarJava 5.14.0.18788 (java)
+  - LDAP 2.2.0.608 (ldap)
+  - SonarHTML 3.1.0.1615 (web)
+  - SonarFlex 2.5.1.1831 (flex)
+  - SonarXML 2.0.1.2020 (xml)
+  - Rules Compliance Index (RCI) 1.0.1 (rci)
+  - Sonar WebDriver Plugin 1.0.3 (webdriver)
+  - SonarTS 1.9.0.3766 (typescript)
+  - Checkstyle 4.23 (checkstyle)
+  - SonarVB 7.15.0.8572 (vbnet)
+  - YAML Analyzer 1.4.3 (yaml)
+  - SonarPython 1.14.1.3143 (python)
+  - Code Smells 4.0.0 (smells)
+  - GitHub Authentication for SonarQube 1.5.0.870 (authgithub)
+  - JaCoCo 1.0.2.475 (jacoco)
+  - SonarGo 1.1.1.2000 (go)
+  - SonarKotlin 1.5.0.315 (kotlin)
+  - ShellCheck Analyzer 2.1.0 (shellcheck)
+  - jDepend 1.1.1 (jdepend)
+  - SonarJS 5.2.1.7778 (javascript)
+  - SonarRuby 1.5.0.315 (ruby)
+  - Findbugs 3.11.0 (findbugs)
+  - Git 1.8.0.1574 (scmgit)
+  - SAML 2.0 Authentication for SonarQube 1.1.0.181 (authsaml)
+  - SoftVis3D Sonar plugin 1.1.0 (softvis3d)
+  - SonarPHP 3.2.0.4868 (php)
+Global server settings:
+  - sonar.core.id=01D01ACE-AW2MxHXxccmb4pHZ8X-p
+  - sonar.core.startTime=2019-10-03T17:47:06+0300
+Project server settings:
+Project scanner properties:
+  - sonar.binaries=C:\Users\dgatilov\Desktop\projects\wildflyEJBTest\target\classes
+  - sonar.groovy.binaries=C:\Users\dgatilov\Desktop\projects\wildflyEJBTest\target\classes
+  - sonar.host.url=http://nfoci:9000
+  - sonar.java.binaries=C:\Users\dgatilov\Desktop\projects\wildflyEJBTest\target\classes
+  - sonar.java.libraries=C:\Users\dgatilov\.m2\repository\javax\javaee-api\7.0\javaee-api-7.0.jar,C:\Users\dgatilov\.m2\repository\com\sun\mail\javax.mail\1.5.0\javax.mail-1.5.0.jar,C:\Users\dgatilov\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar,C:\Users\dgatilov\.m2\repository\org\hibernate\hibernate-core\5.2.12.Final\hibernate-core-5.2.12.Final.jar,C:\Users\dgatilov\.m2\repository\org\jboss\logging\jboss-logging\3.3.0.Final\jboss-logging-3.3.0.Final.jar,C:\Users\dgatilov\.m2\repository\org\hibernate\javax\persistence\hibernate-jpa-2.1-api\1.0.0.Final\hibernate-jpa-2.1-api-1.0.0.Final.jar,C:\Users\dgatilov\.m2\repository\org\javassist\javassist\3.20.0-GA\javassist-3.20.0-GA.jar,C:\Users\dgatilov\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar,C:\Users\dgatilov\.m2\repository\org\jboss\spec\javax\transaction\jboss-transaction-api_1.2_spec\1.0.1.Final\jboss-transaction-api_1.2_spec-1.0.1.Final.jar,C:\Users\dgatilov\.m2\repository\org\jboss\jandex\2.0.3.Final\jandex-2.0.3.Final.jar,C:\Use...
+  - sonar.java.source=1.5
+  - sonar.java.target=1.5
+  - sonar.java.test.libraries=C:\Users\dgatilov\Desktop\projects\wildflyEJBTest\target\classes,C:\Users\dgatilov\.m2\repository\javax\javaee-api\7.0\javaee-api-7.0.jar,C:\Users\dgatilov\.m2\repository\com\sun\mail\javax.mail\1.5.0\javax.mail-1.5.0.jar,C:\Users\dgatilov\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar,C:\Users\dgatilov\.m2\repository\org\hibernate\hibernate-core\5.2.12.Final\hibernate-core-5.2.12.Final.jar,C:\Users\dgatilov\.m2\repository\org\jboss\logging\jboss-logging\3.3.0.Final\jboss-logging-3.3.0.Final.jar,C:\Users\dgatilov\.m2\repository\org\hibernate\javax\persistence\hibernate-jpa-2.1-api\1.0.0.Final\hibernate-jpa-2.1-api-1.0.0.Final.jar,C:\Users\dgatilov\.m2\repository\org\javassist\javassist\3.20.0-GA\javassist-3.20.0-GA.jar,C:\Users\dgatilov\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar,C:\Users\dgatilov\.m2\repository\org\jboss\spec\javax\transaction\jboss-transaction-api_1.2_spec\1.0.1.Final\jboss-transaction-api_1.2_spec-1.0.1.Final.jar,C:\Users\dgatilov\.m2\repo...
+  - sonar.libraries=C:\Users\dgatilov\.m2\repository\javax\javaee-api\7.0\javaee-api-7.0.jar,C:\Users\dgatilov\.m2\repository\com\sun\mail\javax.mail\1.5.0\javax.mail-1.5.0.jar,C:\Users\dgatilov\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar,C:\Users\dgatilov\.m2\repository\org\hibernate\hibernate-core\5.2.12.Final\hibernate-core-5.2.12.Final.jar,C:\Users\dgatilov\.m2\repository\org\jboss\logging\jboss-logging\3.3.0.Final\jboss-logging-3.3.0.Final.jar,C:\Users\dgatilov\.m2\repository\org\hibernate\javax\persistence\hibernate-jpa-2.1-api\1.0.0.Final\hibernate-jpa-2.1-api-1.0.0.Final.jar,C:\Users\dgatilov\.m2\repository\org\javassist\javassist\3.20.0-GA\javassist-3.20.0-GA.jar,C:\Users\dgatilov\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar,C:\Users\dgatilov\.m2\repository\org\jboss\spec\javax\transaction\jboss-transaction-api_1.2_spec\1.0.1.Final\jboss-transaction-api_1.2_spec-1.0.1.Final.jar,C:\Users\dgatilov\.m2\repository\org\jboss\jandex\2.0.3.Final\jandex-2.0.3.Final.jar,C:\Use...
+  - sonar.links.ci=
+  - sonar.links.homepage=
+  - sonar.links.issue=
+  - sonar.links.scm=
+  - sonar.links.scm_dev=
+  - sonar.moduleKey=ru.neoflex.test:wildflyEJBTest
+  - sonar.projectBaseDir=C:\Users\dgatilov\Desktop\projects\wildflyEJBTest
+  - sonar.projectBuildDir=C:\Users\dgatilov\Desktop\projects\wildflyEJBTest\target
+  - sonar.projectKey=ru.neoflex.test:wildflyEJBTest
+  - sonar.projectName=wildflyEJBTest
+  - sonar.projectVersion=1.0-SNAPSHOT
+  - sonar.scanner.app=ScannerMaven
+  - sonar.scanner.appVersion=3.7.0.1746/3.6.1
+  - sonar.scm.disabled=true
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=C:\Users\dgatilov\Desktop\projects\wildflyEJBTest\src\main\webapp,C:\Users\dgatilov\Desktop\projects\wildflyEJBTest\pom.xml,C:\Users\dgatilov\Desktop\projects\wildflyEJBTest\src\main\java
+  - sonar.tests=C:\Users\dgatilov\Desktop\projects\wildflyEJBTest\src\test\java
+  - sonar.verbose=true
+  - sonar.working.directory=C:\Users\dgatilov\Desktop\projects\wildflyEJBTest\target\sonar

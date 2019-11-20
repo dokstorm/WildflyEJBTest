@@ -1,0 +1,1 @@
+wildflyEJBTest :Rru.neoflex.test:wildflyEJBTest

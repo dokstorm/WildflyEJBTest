@@ -1,0 +1,6 @@
+projectKey=ru.neoflex.test:wildflyEJBTest
+serverUrl=http://nfoci:9000
+serverVersion=7.9.1.27448
+dashboardUrl=http://nfoci:9000/dashboard?id=ru.neoflex.test%3AwildflyEJBTest
+ceTaskId=AW6HtweNDxI7H8rwoc66
+ceTaskUrl=http://nfoci:9000/api/ce/task?id=AW6HtweNDxI7H8rwoc66
